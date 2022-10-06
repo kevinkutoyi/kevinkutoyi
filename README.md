@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevinkutoyi
-- 👀 I’m interested in software development
-- 🌱 I’m currently using react.js
-- 💞️ I’m looking to work on amazing projects
-- 📫 Reach me on twitter & instagram @amoraghali
+- 👀 I am a software developer
+- 🌱 I’m currently specialized in react.js
+- 💞️ I love working and contributing on amazing projects
+- 📫 Reach me on twitter @_amoraghali_
 
 
