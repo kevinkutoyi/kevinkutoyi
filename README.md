@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kevinkutoyi
+- 👋 Hi, I’m kevinkutoyi
 - 👀 I am a software developer
-- 🌱 I’m currently specialized in react.js
+- 🌱 I create amazing full-stack projects
 - 💞️ I love working and contributing on amazing projects
-- 📫 Reach me on twitter @_amoraghali_
+- 📫 Reach me on X @kvnKutoyi
 
 
