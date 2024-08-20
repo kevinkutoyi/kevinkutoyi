@@ -7,4 +7,4 @@
 
 <u>My Github Statistics</u> 
 
-[Github Stats](https://github-readme-stats.vercel.app/api?username=kevinkutoyi&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kevinkutoyi&theme=radical)
