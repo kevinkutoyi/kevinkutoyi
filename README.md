@@ -6,4 +6,5 @@
 - 📫 Reach me on X @kvnKutoyi
 
 <u>My Github Statistics</u> 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinkutoyi&theme=radical)
+
+(https://github-readme-stats.vercel.app/api?username=kevinkutoyi&theme=radical)
