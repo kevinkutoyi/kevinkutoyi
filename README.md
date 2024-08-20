@@ -4,4 +4,4 @@
 - 💞️ I love working and contributing on amazing projects
 - 📫 Reach me on X @kvnKutoyi
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinkutoyi &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinkutoyi&theme=radical)
