@@ -1,8 +1,8 @@
 <u>Personal Info</u>
-- 👋 My name is Kvn Kutoyi
-- 👀 I am a software developer
+- 👋 also known as amoraghali || agger
+- 👀 I am a software artist
 - 🌱 I create amazing full-stack projects
-- 💞️ I love working and contributing on amazing projects
+- 💞️ I work and contribute to amazing open source projects
 - 📫 Reach me on X @kvnKutoyi
 
 <u>My Github Statistics</u> 
