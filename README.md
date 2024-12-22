@@ -1,5 +1,5 @@
 <u>Personal Info</u>
-- 👋 also known as amoraghali || agger
+- 👋 Hey, My name is kvnkutoyi
 - 👀 I am a software artist
 - 🌱 I create amazing full-stack projects
 - 💞️ I work and contribute to amazing open source projects
