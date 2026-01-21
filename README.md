@@ -1,6 +1,6 @@
 <u>Personal Info</u>
 - 👋 Hey, My name is kvnkutoyi
-- 👀 I am a software artist
+- 👀 I am a software developer
 - 🌱 I create amazing full-stack projects
 - 💞️ I work and contribute to amazing open source projects
 - 📫 Reach me on X @kvnKutoyi
